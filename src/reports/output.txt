@@ -1,0 +1,3 @@
+===== SUMMARY REPORT =====
+Total Students: 0
+Class Average: java.lang.ArithmeticException: / by zero
