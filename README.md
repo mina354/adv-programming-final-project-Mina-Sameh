@@ -6,7 +6,15 @@
 - Course: Advanced Programming
 
 ## Project Description
-The system reads student data from multiple files, processes grades concurrently using threads, calculates statistics, and generates reports. The system must handle various exceptions and ensure data integrity through synchronization.
+This project is about developing a Student Grade Processing System for a university, covering the following sections:
+•
+Encapsulation & OOP Relationships (Section III)
+•
+Abstraction & Polymorphism (Section IV)
+•
+Threading & Synchronization (Section V)
+•
+Exception Handling & File I/O (Java Exceptions)
 
 ## How to Compile and Run
 1. Open the project in your Java IDE (e.g., IntelliJ IDEA)
@@ -20,16 +28,24 @@ java Main
 
 ## Features Implemented
 [✔] Encapsulation and OOP Relationships
+
 [✔] Abstraction and Polymorphism
-[✔] Exception Handling (Custom Exceptions)
+
+[✔] Exception Handling (as well as Custom Exceptions)
+
 [✔] Multi-threading and Synchronization
+
 [✔] File I/O Operations
+
 [✔] Thread Safety and Deadlock Prevention
 
 ## Sample Output
 Processed Results:
+
 S001 → Avg: 84.3, Grade: B
+
 S002 → Avg: 91.0, Grade: A
+
 S003 → Avg: 76.5, Grade: C
 
 (Actual results may vary depending on input files)
