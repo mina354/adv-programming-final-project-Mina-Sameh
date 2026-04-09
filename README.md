@@ -7,14 +7,14 @@
 
 ## Project Description
 This project is about developing a Student Grade Processing System for a university, covering the following sections:
-•
-Encapsulation & OOP Relationships (Section III)
-•
-Abstraction & Polymorphism (Section IV)
-•
-Threading & Synchronization (Section V)
-•
-Exception Handling & File I/O (Java Exceptions)
+
+• Encapsulation & OOP Relationships (Section III)
+
+• Abstraction & Polymorphism (Section IV)
+
+• Threading & Synchronization (Section V)
+
+• Exception Handling & File I/O (Java Exceptions)
 
 ## How to Compile and Run
 1. Open the project in your Java IDE (e.g., IntelliJ IDEA)
